@@ -3,7 +3,7 @@
 Create a directory called "dict" and "images"
 
 ```mkdir dict```
-~~~mkdir images~~~
+```mkdir images```
 
 Run ```python wiki_crawler.py page_keyword``` replacing page_keyword with the name of a wikipedia page you want to search for.
 This will download metadata related to that page and store it inside the "dict" directory.
