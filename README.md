@@ -1,6 +1,6 @@
 # wikipedia_crawler
 
-Create a directory called "dict" and "images"
+Create directories called "dict" and "images"
 
 ```mkdir dict```
 ```mkdir images```
